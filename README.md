@@ -5,8 +5,8 @@ My solutions and tracking repository for Harvard University's CS50P course. This
 ## 📈 Syllabus & Progress Tracker
 - [Done] **Week 0:** Functions, Variables (`feat/week-0-functions`)
 - [Done] **Week 1:** Conditionals (`feat/week-1-conditionals`)
-- [ ] **Week 2:** Loops (`feat/week-2-Loops`)
-- [ ] **Week 3:** Exceptions
+- [Done] **Week 2:** Loops (`feat/week-2-Loops`)
+- [ ] **Week 3:** Exceptions (`feat/week-3-Exceptions`)
 - [ ] **Week 4:** Libraries
 - [ ] **Week 5:** Unit Tests
 - [ ] **Week 6:** File I/O
